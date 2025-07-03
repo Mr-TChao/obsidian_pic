@@ -1,2 +1,2 @@
 # obsidian_pic
-obsidian图片保存位置
+obsidian图片保存图床
